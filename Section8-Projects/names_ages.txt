@@ -1,0 +1,10 @@
+John is 30 years old
+Bob is 15 years old
+Samantha is 22 years old
+Kyle is 16 years old
+Luke is 10 years old
+Liam is 28 years old
+Joe is 20 years old
+Tia is 33 years old
+David is 17 years old
+Harry is 39 years old
